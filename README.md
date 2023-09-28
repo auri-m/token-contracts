@@ -1,5 +1,3 @@
-# BEP20Token Sample Hardhat Project
-
 Install the dependencies
 ```shell
 npm install
